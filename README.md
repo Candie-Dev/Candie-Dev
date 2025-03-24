@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Candie!
+## Hi there 👋 I'm Temur!
 
 I'm a passionate React developer and a lifelong learner always looking to expand my skills and knowledge.
 
@@ -27,9 +27,9 @@ I'm a passionate React developer and a lifelong learner always looking to expand
 - Project ideas and solutions for modern web development.
 
 ### 📫 How to reach me:
-- Email: [candiedev@example.com](mailto:candiedev@example.com)
+- Email: [Bolkvadzetem@gmail.com]
 - LinkedIn: [Candie Dev](https://www.linkedin.com/in/candie-dev/)
-- Twitter: [@candiedev](https://twitter.com/candiedev)
+
 
 ### 😄 Pronouns:
 - He/His
