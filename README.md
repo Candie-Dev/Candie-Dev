@@ -35,7 +35,7 @@ I'm a passionate React developer and a lifelong learner always looking to expand
 - He/His
 
 ### ⚡ Fun fact:
-- I love playing chess, and I see a lot of similarities between it and programming — both require strategy, patience, and critical thinking.
+- 
 
 ---
 
